@@ -13,7 +13,7 @@ Building data-driven solutions and intelligent applications.
 - 🌱 Currently learning Advanced Machine Learning & Data Analytics
 - 👨‍💻 Working on AI and Data Science projects
 - 📫 Reach me at: shakthisivaprakash.s09@gmail.com
-- 🌐 Portfolio: Your Portfolio Link
+- 🌐 Portfolio: shakthi-os-portfolio.pages.dev
 - 💼 Open to Software Engineering & Data Analyst roles
 
 ---
