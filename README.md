@@ -1,26 +1,72 @@
-Hi 👋 I'm Shakthi Sivaprakash
-Data Analyst | AI & Machine Learning Enthusiast
+# Hi 👋, I'm Shakthi Sivaprakash
 
-I love building AI-powered applications and transforming raw data into actionable insights.
+## 📊 Data Analyst | AI & ML Enthusiast
 
-💻 Tech Stack
+Python • SQL • Power BI • Machine Learning
 
-🐍 Python
+Building data-driven solutions and intelligent applications.
 
-🗄 SQL
+---
 
-📊 Power BI
+## 🚀 About Me
 
-📈 Tableau
+- 🌱 Currently learning Advanced Machine Learning & Data Analytics
+- 👨‍💻 Working on AI and Data Science projects
+- 📫 Reach me at: your_email@gmail.com
+- 🌐 Portfolio: Your Portfolio Link
+- 💼 Open to Software Engineering & Data Analyst roles
 
-🧠 Machine Learning
+---
 
-🌐 JavaScript
+## 💻 Tech Stack
 
-📉 Pandas & NumPy
+### Languages
+- Python
+- SQL
+- JavaScript
 
-🚀 Current Focus
-Data Analytics
-Machine Learning Projects
-Business Intelligence Dashboards
-Software Development
+### Data Analytics
+- Power BI
+- Tableau
+- Excel
+- Pandas
+- NumPy
+
+### Machine Learning
+- Scikit-Learn
+- TensorFlow (Basics)
+- Data Preprocessing
+- Model Evaluation
+
+---
+
+## 📌 Featured Projects
+
+- 🌊 Flood Prediction System
+- 📊 Online Retail Sales Analysis
+- 🧠 Association Rule Mining & PCA
+- 💻 Personal Portfolio Website
+
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Shakthisivaprakash&show_icons=true&theme=github_dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakthisivaprakash&layout=compact&theme=github_dark)
+
+![](https://streak-stats.demolab.com/?user=Shakthisivaprakash&theme=github-dark)
+
+---
+
+## 🔗 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/shakthi-siva/)
+
+[Portfolio](https://shakthi-os-portfolio.pages.dev/)
+
+[Email](shakthisivaprakash.s09@gmail.com)
+
+---
+
+⭐ Always learning. Always building.
