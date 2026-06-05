@@ -51,11 +51,11 @@ Building data-driven solutions and intelligent applications.
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Shakthisivaprakash&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shakthisivaprakash&show_icons=true&theme=github_dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakthisivaprakash&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakthisivaprakash&layout=compact&theme=github_dark)
 
-![](https://streak-stats.demolab.com/?user=Shakthisivaprakash&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Shakthisivaprakash&theme=github-dark)
 
 ---
 
