@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi 👋 I'm Shakthi Sivaprakash
+Data Analyst | AI & Machine Learning Enthusiast
 
-<!--
-**Shakthisivaprakash/Shakthisivaprakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love building AI-powered applications and transforming raw data into actionable insights.
 
-Here are some ideas to get you started:
+💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Python
+
+🗄 SQL
+
+📊 Power BI
+
+📈 Tableau
+
+🧠 Machine Learning
+
+🌐 JavaScript
+
+📉 Pandas & NumPy
+
+🚀 Current Focus
+Data Analytics
+Machine Learning Projects
+Business Intelligence Dashboards
+Software Development
