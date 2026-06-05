@@ -49,14 +49,13 @@ Building data-driven solutions and intelligent applications.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shakthisivaprakash&show_icons=true&theme=github_dark)
+[![Shakthi's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shakthisivaprakash&theme=github_dark)]()
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakthisivaprakash&layout=compact&theme=github_dark)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shakthisivaprakash&theme=github_dark)]()
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shakthisivaprakash&theme=github-dark)
-
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shakthisivaprakash&theme=github_dark&utcOffset=5.5)]()
 ---
 
 ## 🔗 Connect With Me
